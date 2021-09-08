@@ -1,8 +1,8 @@
 a=int(input('Temperature in fahrenheit:\n')
 
 if a<=0: 
-      print 'Ice'
+      print('Ice')
 elif a<=100:
-      print 'Water'
+      print('Water')
 else:
       print("Steam")
