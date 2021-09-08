@@ -1,4 +1,4 @@
-a=int(input('Temperature in fahrenheit:\n')
+a=int(input('Temperature in fahrenheit:\n'))
 
 if a<=0: 
       print('Ice')
